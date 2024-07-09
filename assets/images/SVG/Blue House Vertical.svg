@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100.99 130.73">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-family: DMSans-Bold, 'DM Sans';
+        font-size: 19.25px;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <image width="308" height="308" transform="translate(.19) scale(.33)" xlink:href="../../../../../../../../Downloads/Picture1.png"/>
+      <text class="cls-5" transform="translate(0 125.45)"><tspan class="cls-1" x="0" y="0">B</tspan><tspan class="cls-2" x="11.25" y="0">l</tspan><tspan class="cls-3" x="15.33" y="0">u</tspan><tspan class="cls-6" x="25.99" y="0">e </tspan><tspan class="cls-4" x="39.89" y="0">H</tspan><tspan class="cls-9" x="52.49" y="0">o</tspan><tspan class="cls-10" x="63.13" y="0">u</tspan><tspan class="cls-8" x="73.82" y="0">s</tspan><tspan class="cls-7" x="82.75" y="0">e</tspan></text>
+    </g>
+  </g>
+</svg>
